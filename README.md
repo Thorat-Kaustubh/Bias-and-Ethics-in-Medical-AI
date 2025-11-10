@@ -132,5 +132,4 @@ This work is licensed under the **MIT License** — you are free to use, modify,
 
 ⭐ **If you find this work useful, please star the repository!**
 
-## 🧩 Repository Structure
 
